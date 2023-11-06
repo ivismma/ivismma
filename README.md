@@ -25,7 +25,7 @@ Planos (Roadmap/Planejamento) IC/UFRJ:
 
   🔵 ICP606 - Tóp Esp em Programação
   🔵 ICP471 - Compiladores
-  🔵 ICP241 - Computação II (Python Avançado c/ Estrutura de Dados)
+  🔵 ICP241 - Computação II (Python Avançado c/ Análise de Dados)
 
   🔴 A cursar
   🟡 Cursando
