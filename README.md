@@ -30,4 +30,4 @@ Planos (Roadmap/Planejamento) IC/UFRJ:
   🔴 A cursar
   🟡 Cursando
   🟢 Cursado/aprovado
-  🔵 Cogitação
+  🔵 Futuro
