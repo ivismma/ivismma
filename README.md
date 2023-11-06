@@ -6,14 +6,15 @@ Planos (Roadmap/Planejamento) IC/UFRJ:
   🟡 ICP133 - Fundamentos de Sistemas de Computação; <br>
   🟡 CMT012 - Introdução à Programação C (ICP131 + ICP141);<br>
   🟡 ICP142 - Organização de Dados I.
-- 2024.1<br>
-  🔴 Processo seletivo para monitoria remunerada em Programação;<br>
+🟡 Processo seletivo para monitoria remunerada em Programação;<br>
+- 2024.1|2024.2<br>
+  🔴 ICP134 - Num Inteiros Criptografia
   🔴 ICP116 - Estrutura dos Dados;<br>
   🔴 ICP239 - Programação Orientada a Objetos.
+  🔴 ICP115 - Algebra Linear Algorítmica;<br>
 
   (...)
 
-  🔴 ICP115 - Algebra Linear Algorítmica;<br>
   🔴 ICP123 - Linguagens Formais;<br>
   🔴 ICP361 - Programação Concorrente (Programação Simultânea);<br>
   🔴 ICP365 - Otimização;<br>
