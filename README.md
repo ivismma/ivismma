@@ -8,10 +8,10 @@ Planos (Roadmap/Planejamento) IC/UFRJ:
   🟡 ICP142 - Organização de Dados I;<br>
 🟡 Processo seletivo para monitoria remunerada em Programação.<br>
 - 2024.1|2024.2<br>
-  🔴 ICP134 - Num Inteiros Criptografia
+  🔴 ICP134 - Num Inteiros Criptografia;<br>
   🔴 ICP116 - Estrutura dos Dados;<br>
-  🔴 ICP239 - Programação Orientada a Objetos.
-  🔴 ICP115 - Algebra Linear Algorítmica;<br>
+  🔴 ICP239 - Programação Orientada a Objetos;<br>
+  🔴 ICP115 - Algebra Linear Algorítmica.<br>
 
   (...)
 
