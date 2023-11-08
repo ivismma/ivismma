@@ -7,7 +7,8 @@ Obs: Somente matérias do IC
   🟡 ICP133 - Fundamentos de Sistemas de Computação <br>
   🟡 CMT012 - Introdução à Programação C (ICP131 + ICP141)<br>
   🟡 ICP142 - Organização de Dados I<br>
-🟡 Processo seletivo para monitoria remunerada em Programação<br>
+
+🔵 Processo seletivo para monitoria remunerada em Programação<br>
 - 2024.1|2024.2<br>
   🔴 ICP134 - Num Inteiros Criptografia<br>
   🔴 ICP116 - Estrutura dos Dados<br>
