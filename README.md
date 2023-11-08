@@ -28,8 +28,9 @@ Obs: Somente matérias do IC
   🔵 ICP606 - Tóp Esp em Programação
   🔵 ICP471 - Compiladores
   🔵 ICP241 - Computação II (Python Avançado c/ Análise de Dados)
+  🔵 ?
 
   🔴 A cursar
   🟡 Cursando
   🟢 Cursado/aprovado
-  🔵 Futuro
+  🔵 Eletivas
