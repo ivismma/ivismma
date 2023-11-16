@@ -4,6 +4,8 @@ Obs: Somente matérias do IC
 - 2023.1<br>
   🟢 ICP121 - Computação I (Python)
 - 2023.2<br>
+  🟢 ICP132 - Processos de Software (dispensado/FAETERJ)<br>
+  🟢 ICP145 - Habilidades Sociais p Trabalho (dispensado/FAETERJ)<br>
   🟡 ICP133 - Fundamentos de Sistemas de Computação <br>
   🟡 CMT012 - Introdução à Programação C (ICP131 + ICP141)<br>
   🟡 ICP142 - Organização de Dados I<br>
@@ -34,4 +36,5 @@ Obs: Somente matérias do IC
   🔴 A cursar
   🟡 Cursando
   🟢 Cursado/aprovado
+  
   🔵 Eletivas
