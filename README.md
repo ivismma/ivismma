@@ -9,11 +9,12 @@ Obs: Somente matérias do IC
   🟡 ICP142 - Organização de Dados I<br>
 
 🔵 Processo seletivo para monitoria remunerada em Programação<br>
-- 2024.1|2024.2<br>
+- 2024<br>
   🔴 ICP134 - Num Inteiros Criptografia<br>
   🔴 ICP116 - Estrutura dos Dados<br>
   🔴 ICP239 - Programação Orientada a Objetos<br>
   🔴 ICP115 - Algebra Linear Algorítmica<br>
+  🔴 Transferência oficial para Ciência da Computação.
 
   (...)
 
@@ -25,11 +26,10 @@ Obs: Somente matérias do IC
   🔴 ICP363 - Introd. Aprendizado de Máquina<br>
 
    Avançado/eletivas:
-
   🔵 ICP606 - Tóp Esp em Programação<br>
   🔵 ICP471 - Compiladores<br>
   🔵 ICP241 - Computação II (Python Avançado c/ Análise de Dados)<br>
-  🔵 ?<br>
+  (...)
 
   🔴 A cursar
   🟡 Cursando
