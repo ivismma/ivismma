@@ -27,7 +27,7 @@ Obs: Somente matérias do IC
   🔴 ICP368 - Algoritmos e Grafos<br>
   🔴 ICP363 - Introd. Aprendizado de Máquina<br>
 
-   Avançado/eletivas:
+   Avançado/eletivas:<br>
   🔵 ICP606 - Tóp Esp em Programação<br>
   🔵 ICP471 - Compiladores<br>
   🔵 ICP241 - Computação II (Python Avançado c/ Análise de Dados)<br>
