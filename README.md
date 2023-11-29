@@ -1,40 +1,10 @@
-Planos (Roadmap/Planejamento) IC/UFRJ:<br>
-Obs: Somente matérias do IC
+Estudante de Computação que adora Programação backend e ainda pensando em qual área de Ciência da Computação vai atuar.
 
-- 2023.1<br>
-  🟢 ICP121 - Computação I (Python)
-- 2023.2<br>
-  🟢 ICP132 - Processos de Software (dispensado/FAETERJ)<br>
-  🟢 ICP145 - Habilidades Sociais p Trabalho (dispensado/FAETERJ)<br>
-  🟡 ICP133 - Fundamentos de Sistemas de Computação <br>
-  🟡 CMT012 - Introdução à Programação C (ICP131 + ICP141)<br>
-  🟡 ICP142 - Organização de Dados I<br>
+Objetivos para 2024:
 
-🔵 Processo seletivo para monitoria remunerada em Programação<br>
-- 2024<br>
-  🔴 ICP134 - Num Inteiros Criptografia<br>
-  🔴 ICP116 - Estrutura dos Dados<br>
-  🔴 ICP239 - Programação Orientada a Objetos<br>
-  🔴 ICP115 - Algebra Linear Algorítmica<br>
-  🔴 Transferência oficial para Ciência da Computação.
-
-  (...)
-
-  🔴 ICP123 - Linguagens Formais<br>
-  🔴 ICP361 - Programação Concorrente (Programação Simultânea);<br>
-  🔴 ICP365 - Otimização<br>
-  🔴 ICP370 - Lógica e Computabilidade<br>
-  🔴 ICP368 - Algoritmos e Grafos<br>
-  🔴 ICP363 - Introd. Aprendizado de Máquina<br>
-
-   Avançado/eletivas:<br>
-  🔵 ICP606 - Tóp Esp em Programação<br>
-  🔵 ICP471 - Compiladores<br>
-  🔵 ICP241 - Computação II (Python Avançado c/ Análise de Dados)<br>
-  (...)
-
-  🔴 A cursar
-  🟡 Cursando
-  🟢 Cursado/aprovado
-  
-  🔵 Eletivas
+- Dar monitoria em Programação C ou Python (Preferência em C), Bolsista do IC/UFRJ.
+- Aprender C++
+- Escolher Linguagem de Programação para se especializar (Provavelmente C++, Java ou Python)
+- Escolher alguns cursos de interesse na Udemy ou semelhante.
+- Estágio após a Monitoria (Contrato de 1 ano)
+- Obter ainda mais experiência.
