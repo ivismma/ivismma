@@ -2,9 +2,9 @@ Estudante de Computação que adora Programação backend e ainda pensando em qu
 
 Objetivos para 2024:
 
-- Dar monitoria em Programação C ou Python (Preferência em C), Bolsista do IC/UFRJ.
+- Pleitear bolsa de monitoria: Prog I, Prog II ou Oficina de Programação em C, disciplinas do IC/UFRJ.
 - Aprender C++
-- Escolher Linguagem de Programação para se especializar (Provavelmente C++, C# ou Python)
+- Escolher Linguagem de Programação para se especializar
 - Escolher alguns cursos de interesse na Udemy ou semelhante.
-- Estágio após a Monitoria (Contrato de 1 ano)
-- Obter ainda mais experiência.
+- O que fazer após monitoria (Monitoria mais avançada ou Estágio).
+- Obter ainda mais experiência com programação e desenvolvimento back-end.
