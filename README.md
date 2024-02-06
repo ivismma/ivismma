@@ -1,4 +1,5 @@
-Estudante de Computação que adora Programação backend e ainda pensando em qual área de Ciência da Computação vai atuar.
+Estudante de Computação que adora Programação backend e ainda pensando em qual área de Ciência da Computação vai atuar.<br><br>
+Dou aulas de C e Algoritmos de Programação na plataforma Superprof (=
 
 Objetivos para 2024:
 
