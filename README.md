@@ -3,7 +3,7 @@ Dou aulas de C e Algoritmos de Programação na plataforma Superprof (=
 
 Objetivos para 2024:
 
-- Pleitear bolsa de monitoria: Prog I, Prog II ou Oficina de Programação em C, disciplinas do IC/UFRJ. ✔️
+- Pleitear bolsa de monitoria remunerada no Instituto de Computação. ✔️
 - Continuar constantemente praticando cursos à parte (na Udemy ou semelhante). ✔️
 - Aprofundar no C++ e aprender alguma linguagem em crescimento Rust/Go/Kotlin...
 - Oficialmente Ciência da Computação na UFRJ.
