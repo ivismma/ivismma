@@ -7,6 +7,7 @@ LinkedIn: https://www.linkedin.com/in/ivis-muzi-5972b5181/
 
 Mini tasklist:
 
-✔️ Concluir minicurso de POO (antecipar/preparar 3º período)<br>
-📝 Curso de Programação Concorrente em C (antecipar/preparar 6º período)<br>
+✔️ Concluir minicurso de POO (antecipar/preparar 3º período [POO])<br>
+📝 Curso de Programação Concorrente em C (antecipar/preparar 6º período [Prog. Concorrente])<br>
+📝 Noções básicas de Assembly (antecipar/preparar 4 e 5º período [Arq Comp, Comp Prog])<br>
 📝 Aprender Rust e/ou Sistemas embarcados (Eletiva de Microcontroladores eng. computação)
