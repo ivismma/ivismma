@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,python" alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" alt="My Skills">
   </a>
 </div>
 <hr>
