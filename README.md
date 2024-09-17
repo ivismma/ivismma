@@ -15,8 +15,9 @@
   </a>
 </div>
 <hr>
-LinkedIn: https://www.linkedin.com/in/ivis-muzi-5972b5181/
 
-Contato:<br>
-- 📧 ivismma@gmail.com   (pessoal)<br>
-- 📧 ivismma@dcc.ufrj.br (acadêmico)
+- 📧 Contato:
+  -  ivismma@gmail.com   (pessoal)
+  -  ivismma@dcc.ufrj.br (acadêmico)
+
+Clique <a href="https://www.linkedin.com/in/ivis-muzi-5972b5181/">aqui</a> para acessar o meu Linkedin.
