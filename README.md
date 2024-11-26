@@ -14,6 +14,9 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python" alt="My Skills">
   </a>
 </div>
+<br>
+Em 2025, farei parte da iniciação científica sob tema "Programação de Jogos em Unity" do laboratório LUDES/UFRJ (por bolsa FAPERJ), atuando especificamente no desenvolvimento do jogo <a href="https://www.discoverx.com.br/">DiscoveRx</a>.
+<br>
 <hr>
 
 - 📧 Contato:
