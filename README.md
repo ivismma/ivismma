@@ -15,7 +15,7 @@
   </a>
 </div>
 <br>
-Em 2025, farei parte da iniciação científica sob tema "Programação de Jogos em Unity" do laboratório LUDES/UFRJ (por bolsa FAPERJ), atuando especificamente no desenvolvimento do jogo <a href="https://www.discoverx.com.br/">DiscoveRx</a>.
+No momento, atuo como monitor bolsista de Computação I (Python) para os cursos de engenharia.
 <br>
 <hr>
 
