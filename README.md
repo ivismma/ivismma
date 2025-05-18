@@ -25,4 +25,4 @@ No momento, atuo como monitor bolsista de Computação I (Python) para os cursos
 
 - 💼 Portfólio:
   -  <a href="https://www.linkedin.com/in/ivis-muzi-5972b5181/">Linkedin</a>
-  -  <a href="https://www.linkedin.com/in/ivis-muzi-5972b5181/">Leetcode</a>
+  -  <a href="https://leetcode.com/u/ivismma/">Leetcode</a>
