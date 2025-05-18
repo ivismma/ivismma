@@ -23,4 +23,6 @@ No momento, atuo como monitor bolsista de Computação I (Python) para os cursos
   -  ivismma@gmail.com   (pessoal)
   -  ivismma@dcc.ufrj.br (acadêmico)
 
-Clique <a href="https://www.linkedin.com/in/ivis-muzi-5972b5181/">aqui</a> para acessar o meu Linkedin.
+- 💼 Portfólio:
+  -  <a href="https://www.linkedin.com/in/ivis-muzi-5972b5181/">Linkedin</a>
+  -  <a href="https://www.linkedin.com/in/ivis-muzi-5972b5181/">Leetcode</a>
