@@ -15,7 +15,9 @@
   </a>
 </div>
 <br>
-No momento, atuo como <b>bolsista de iniciação científica em Tecnologia de Informação</b> no Núcleo Interdisciplinar de Dinâmica dos Fluídos (<a href="https://www.nidf.ufrj.br/">NIDF/UFRJ</a>).
+No momento, atuo como <b>bolsista de iniciação científica em Tecnologia de Informação</b> no Núcleo Interdisciplinar de Dinâmica dos Fluídos (<a href="https://www.nidf.ufrj.br/">NIDF/UFRJ</a>).<br>
+<br>
+Além disso, atualmente trabalho (em tempos vagos) em um projeto pessoal e open-source aplicado a jogos (em C++) que será publicado em um futuro próximo.
 <br>
 <hr>
 
