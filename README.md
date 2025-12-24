@@ -3,7 +3,7 @@
 <h3>Um pouco da minha trajetória até o momento:</h3>
 
 - Cursei 2 períodos de **Análise e Desenvolvimento de Sistemas** na FAETERJ-Rio (totalizei 15 matérias)
-- Atualmente estudo **Ciência da Computação** (5º período) na Universidade Federal do Rio de Janeiro.
+- Atualmente estudo **Ciência da Computação** (6º período) na Universidade Federal do Rio de Janeiro.
 - Até o presente momento, tive as seguintes experiências na UFRJ:
    - Monitoria em **Computação I** (Python para os cursos de Engenharia).
    - Monitoria em **Programação de Computadores II** (Linguagem C - Ciência da Computação).
