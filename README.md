@@ -23,7 +23,7 @@ Além disso, atualmente trabalho (em tempos vagos) em um projeto pessoal e open-
 
 - 📧 Contato:
   -  ivismma@gmail.com   (pessoal)
-  -  ivismma@dcc.ufrj.br (acadêmico)
+  -  ivismma@ic.ufrj.br (acadêmico)
 
 - 💼 Portfólio:
   -  <a href="https://www.linkedin.com/in/ivis-muzi-5972b5181/">Linkedin</a>
